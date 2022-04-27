@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\bin\Debug\Lab3_IKT_PavA.exe.config
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\bin\Debug\Lab3_IKT_PavA.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\bin\Debug\Lab3_IKT_PavA.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.CopyForm.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.Properties.Resources.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab3_IKT_PavA\obj\Debug\Lab3_IKT_PavA.FormAddText.resources
